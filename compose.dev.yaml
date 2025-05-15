@@ -1,0 +1,7 @@
+# docker compose -f compose.dev.yaml up --build
+
+services:
+  Image-Optimizer:
+    build: .
+    ports:
+      - "3474:80"

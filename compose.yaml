@@ -1,0 +1,8 @@
+# Basic compose file for deploying Image-Optimizer
+
+services:
+  Image-Optimizer:
+    container_name: Image-Optimizer
+    image: ghcr.io/civilblur/Image-Optimizer:latest
+    ports:
+      - "3474:80"
