@@ -94,25 +94,30 @@
 }
 
 :root {
-  --color-primary: #a78bfa; /* pastel purple */
-  --color-primary-variant: #ede9fe;
-  --color-primary-hover: #c4b5fd;
-  --color-accent: #7dd3fc; /* pastel sky blue */
+  /* Brand */
+  --color-primary: #6d2eb8;
+  --color-primary-variant: #d9bbff;
+  --color-primary-hover: #8848d6;
+  --color-accent: #bb86fc;
+  --color-white: #ffffff;
+  --color-black: #000000;
 
-  --color-surface: #1e1e2f;
-  --color-surface-variant: #25253b;
-  --color-surface-high: #2d2d44;
-  --color-surface-higher: #383851;
-  --color-surface-higher-hover: #4a4a67;
+  /* Surfaces */
+  --color-surface: #0b0b0b; /* Elevation 1 */
+  --color-surface-variant: #0b0b0b; /* Elevation 1 */
+  --color-surface-high: #191919; /* Elevation 2 */
+  --color-surface-high-hover: var(--color-surface-higher);
+  --color-surface-higher: #333333; /* Elevation 3 */
+  --color-surface-higher-hover: #484848; /* Elevation 3 */
 
-  --color-on-surface: #dcdce9;
-  --color-on-surface-high: #eeeeff;
+  /* Glyphs */
+  --color-on-surface: rgb(221, 221, 221);
+  --color-on-surface-high: rgb(236, 236, 236);
   --color-on-surface-higher: #ffffff;
 
-  --color-border: rgba(180, 180, 255, 0.2);
-  --color-border-hover: rgba(200, 200, 255, 0.35);
-  --color-border-selected: rgba(210, 210, 255, 0.5);
-
+  --color-border: rgba(125, 125, 125, 0.9);
+  --color-border-hover: rgba(137, 137, 137, 0.9);
+  --color-border-selected: rgba(161, 161, 161, 0.9);
 
   /* States */
   --color-success: #199b1e;
@@ -137,24 +142,27 @@
 }
 
 html.theme-light {
-  --color-primary: #7c3aed;
-  --color-primary-variant: #ede9fe;
-  --color-primary-hover: #6d28d9;
-  --color-accent: #67e8f9;
+  /* Brand */
+  --color-primary: #007f6e;
+  --color-primary-variant: #015a4e;
+  --color-primary-hover: #005b4f;
+  --color-accent: #0bb79f;
+  /* Surfaces */
+  --color-surface: #fff;
+  --color-surface-variant: #e6e6e6;
+  --color-surface-high: #f5f5f5;
+  --color-surface-higher: #e3e3e3;
+  --color-surface-higher-hover: #cfcfcf;
 
-  --color-surface: #f8f8fc;
-  --color-surface-variant: #eeeeff;
-  --color-surface-high: #e5e5f7;
-  --color-surface-higher: #ddddff;
-  --color-surface-higher-hover: #ccccee;
+  /* Glyphs */
+  --color-on-surface: #333333;
+  --color-on-surface-high: #2b2b2b;
+  --color-on-surface-higher: #121212;
 
-  --color-on-surface: #2a2a3a;
-  --color-on-surface-high: #1e1e2e;
-  --color-on-surface-higher: #111122;
+  --color-border: rgba(90, 90, 90, 0.9);
+  --color-border-hover: rgba(121, 121, 121, 0.9);
+  --color-border-selected: rgba(114, 114, 114, 0.9);
 
-  --color-border: rgba(160, 160, 210, 0.3);
-  --color-border-hover: rgba(140, 140, 180, 0.5);
-  --color-border-selected: rgba(120, 120, 200, 0.7);
 
   /* States */
   --color-success: #388e3c;
