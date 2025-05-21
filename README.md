@@ -8,7 +8,7 @@ Image-Optimizer
 <h2 align="center"> A self-hosted local image optimizer that runs in your browser.</h2>
 
 <center>
-   <img src=".github/images/v1.1.0/featured-desktop-solo-dark.jpg" alt="Image-Optimizer desktop screen capture dark mode" width="1200">
+   <img src="./assets/images/logo (2).png" alt="Image-Optimizer desktop screen capture dark mode" width="1200">
 </center>
 
 ## About
