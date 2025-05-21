@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/images/logo.png" alt="Image-Optimizer icon" width="120">
+  <img src="./assets/images/logo.png" alt="Image-Optimizer icon" width="120">
 
 Image-Optimizer
 
