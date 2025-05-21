@@ -86,13 +86,13 @@ services:
 </center>
 
 <center>
-   <img src=".github/images/v1.1.0/featured-desktop-solo-light.jpg" alt="Image-Optimizer desktop screen capture light mode" width="1200">
+   <img src="./assets/images/sc-light" alt="Image-Optimizer desktop screen capture light mode" width="600">
 </center>
 
 |                                                                                                                                  |                                                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|       Dark mode<br><img src=".github/images/v1.1.0/capture-desktop-dark.jpg" alt="Image-Optimizer dark mode" width="90%%">       |        Light mode<br><img src=".github/images/v1.1.0/capture-desktop-light.jpg" alt="Image-Optimizer light mode" width="90%%">        |
-| Settings<br><img src=".github/images/v1.1.0/capture-desktop-solo-settings-dark.jpg" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src=".github/images/v1.1.0/capture-desktop-solo-output-dark.jpg" alt="Image-Optimizer settings" width="90%%"> |
+|       Dark mode<br><img src="./assets/images/sc-fs-dark.png" alt="Image-Optimizer dark mode" width="90%%">       |        Light mode<br><img src="./assets/images/sc-fs-light.png" alt="Image-Optimizer light mode" width="90%%">        |
+| Settings<br><img src="./assets/images/settings-light.png" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src=".github/images/v1.1.0/capture-desktop-solo-output-dark.jpg" alt="Image-Optimizer settings" width="90%%"> |
 
 ## Attributions
 
