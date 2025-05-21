@@ -77,13 +77,10 @@ services:
    - If the button isn’t available, you can still install it manually in a few simple clicks. ([See how](./docs/install-web-app.md))
 1. A shortcut to Image-Optimizer will be added to your device and can even be used offline.
 
-<img src=".github/images/install-web-app/capture-install-pwa-button.png" alt="Install Image-Optimizer progressive web app button" height="100">
 
 ## Screenshots
 
-<center>
-   <img src=".github/images/v1.1.0/featured-image-mobile-group-dark-light.jpg" alt="Image-Optimizer mobile devices" width="1200">
-</center>
+
 
 <center>
    <img src="./assets/images/sc-light.png" alt="Image-Optimizer desktop screen capture light mode" width="600">
@@ -92,7 +89,7 @@ services:
 |                                                                                                                                  |                                                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 |       Dark mode<br><img src="./assets/images/sc-fs-dark.png" alt="Image-Optimizer dark mode" width="90%%">       |        Light mode<br><img src="./assets/images/sc-fs-light.png" alt="Image-Optimizer light mode" width="90%%">        |
-| Settings<br><img src="./assets/images/settings-light.png" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src="../assets/images/settings-dark.png" alt="Image-Optimizer settings" width="90%%"> |
+| Settings<br><img src="./assets/images/settings-light.png" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src="./assets/images/settings-dark.png" alt="Image-Optimizer settings" width="90%%"> |
 
 ## Attributions
 
