@@ -86,13 +86,13 @@ services:
 </center>
 
 <center>
-   <img src="./assets/images/sc-light" alt="Image-Optimizer desktop screen capture light mode" width="600">
+   <img src="./assets/images/sc-light.png" alt="Image-Optimizer desktop screen capture light mode" width="600">
 </center>
 
 |                                                                                                                                  |                                                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 |       Dark mode<br><img src="./assets/images/sc-fs-dark.png" alt="Image-Optimizer dark mode" width="90%%">       |        Light mode<br><img src="./assets/images/sc-fs-light.png" alt="Image-Optimizer light mode" width="90%%">        |
-| Settings<br><img src="./assets/images/settings-light.png" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src=".github/images/v1.1.0/capture-desktop-solo-output-dark.jpg" alt="Image-Optimizer settings" width="90%%"> |
+| Settings<br><img src="./assets/images/settings-light.png" alt="Image-Optimizer settings" width="90%%"> | Download images<br><img src="../assets/images/settings-dark.png" alt="Image-Optimizer settings" width="90%%"> |
 
 ## Attributions
 
